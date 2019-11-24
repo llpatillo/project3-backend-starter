@@ -2,8 +2,8 @@
 module.exports = (sequelize, DataTypes) => {
   const Viewpoint = sequelize.define('Viewpoint', {
     candidate_id: DataTypes.INTEGER,
+    name: DataTypes.STRING,
     category: DataTypes.STRING,
-    cat_description: DataTypes.STRING,
     for_against: DataTypes.STRING,
     expanded_view: DataTypes.STRING
   }, {});
