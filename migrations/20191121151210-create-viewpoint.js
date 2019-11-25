@@ -14,7 +14,7 @@ module.exports = {
       category: {
         type: Sequelize.STRING
       },
-      name: {
+      category: {
         type: Sequelize.STRING
       },
      
@@ -22,7 +22,7 @@ module.exports = {
         type: Sequelize.STRING
       },
       expanded_view: {
-        type: Sequelize.VARCHAR
+        type: Sequelize.STRING
       },
       createdAt: {
         allowNull: false,
