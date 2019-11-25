@@ -11,16 +11,28 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
-      party: {
+      candidate_img_url: {
         type: Sequelize.STRING
       },
-      party_img: {
+      political_party: {
         type: Sequelize.STRING
       },
-      candidate_img: {
+      political_party_img_url: {
         type: Sequelize.STRING
       },
       current_office: {
+        type: Sequelize.STRING
+      },
+      official_website: {
+        type: Sequelize.STRING
+      },
+      facebook: {
+        type: Sequelize.STRING
+      },
+      instagram: {
+        type: Sequelize.STRING
+      },
+      twitter: {
         type: Sequelize.STRING
       },
       createdAt: {

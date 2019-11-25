@@ -2,9 +2,9 @@
 module.exports = (sequelize, DataTypes) => {
   const Candidate = sequelize.define('Candidate', {
     name: DataTypes.STRING,
-    candidate_img: DataTypes.STRING,
+    candidate_img_url: DataTypes.TEXT,
     political_party: DataTypes.STRING,
-    political_party_img_url: DataTypes.STRING,
+    political_party_img_url: DataTypes.TEXT,
     current_office: DataTypes.STRING,
     official_website: DataTypes.STRING,
     facebook: DataTypes.STRING,

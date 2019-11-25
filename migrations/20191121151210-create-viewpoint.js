@@ -14,14 +14,15 @@ module.exports = {
       category: {
         type: Sequelize.STRING
       },
-      cat_description: {
+      name: {
         type: Sequelize.STRING
       },
+     
       for_against: {
         type: Sequelize.STRING
       },
       expanded_view: {
-        type: Sequelize.STRING
+        type: Sequelize.VARCHAR
       },
       createdAt: {
         allowNull: false,

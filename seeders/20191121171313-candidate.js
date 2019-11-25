@@ -13,8 +13,8 @@ module.exports = {
        facebook:"https://www.facebook.com/joebiden",
        instagram:"https://www.instagram.com/joebiden/",
        twitter:"https://twitter.com/joebiden",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -27,8 +27,8 @@ module.exports = {
        facebook:"https://www.facebook.com/corybooker",
        instagram:"https://www.instagram.com/corybooker/",
        twitter:"https://twitter.com/corybooker",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -41,8 +41,8 @@ module.exports = {
        facebook:"https://www.facebook.com/petebuttigieg1",
        instagram:"https://www.instagram.com/pete.buttigieg/",
        twitter:"https://twitter.com/petebuttigieg",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -55,8 +55,8 @@ module.exports = {
        facebook:"https://www.facebook.com/JoinRocky/",
        instagram:"https://www.instagram.com/joinrocky/",
        twitter:"https://twitter.com/JoinRocky",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -69,8 +69,8 @@ module.exports = {
        facebook:"https://www.facebook.com/RepTulsiGabbard",
        instagram:"https://www.instagram.com/tulsigabbard/",
        twitter:"https://twitter.com/tulsigabbard",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -83,8 +83,8 @@ module.exports = {
        facebook:"https://www.facebook.com/KamalaHarris",
        instagram:"https://www.instagram.com/kamalaharris/",
        twitter:"https://twitter.com/kamalaharris",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -97,8 +97,8 @@ module.exports = {
        facebook:"https://www.facebook.com/amyklobuchar/",
        instagram:"https://www.instagram.com/amyklobuchar/?hl=en",
        twitter:"https://twitter.com/amyklobuchar",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -111,8 +111,8 @@ module.exports = {
        facebook:"https://www.facebook.com/berniesanders",
        instagram:"https://www.instagram.com/berniesanders/",
        twitter:"https://twitter.com/BernieSanders",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -125,8 +125,8 @@ module.exports = {
        facebook:"https://www.facebook.com/officialtomsteyer/",
        instagram:"https://www.instagram.com/tomsteyer/",
        twitter:"https://twitter.com/TomSteyer",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -139,8 +139,8 @@ module.exports = {
        facebook:"https://www.facebook.com/DonaldTrump/",
        instagram:"https://www.instagram.com/realdonaldtrump/",
        twitter:"https://twitter.com/realDonaldTrump",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
@@ -153,11 +153,25 @@ module.exports = {
        facebook:"https://www.facebook.com/ElizabethWarren",
        instagram:"https://www.instagram.com/elizabethwarren/",
        twitter:"https://twitter.com/ewarren",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      },
      {
+      name:"Bill Weld",
+      candidate_img_url:"https://ewscripps.brightspotcdn.com/dims4/default/b412fd8/2147483647/strip/true/crop/3288x4753+0+0/resize/996x1440!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F86%2F2e%2F7fc0bc6d41478284c5f7016d713b%2F2020-candidates-gallery-bill-weld.jpg",
+      political_party:"Republican",
+      political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Republican_Disc.svg/300px-Republican_Disc.svg.png",
+      current_office:"None",
+      official_website:"https://weld2020.org/",
+      facebook:"https://www.facebook.com/GovBillWeld/",
+      instagram:"https://www.instagram.com/bill_weld2020/",
+      twitter:"https://twitter.com/GovBillWeld",
+      createdAt: new Date (),
+      updatedAt: new Date ()
+  
+    },
+    {
        name:"Andrew Yang",
        candidate_img_url:"https://ewscripps.brightspotcdn.com/dims4/default/f0298e0/2147483647/strip/true/crop/1044x667+0+0/resize/1044x667!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F0e%2F92%2F47fec20945eea31d2dc094fb84a8%2F2020-candidate-gallery-andrew-yang.png",
        political_party:"Democrat",
@@ -167,22 +181,8 @@ module.exports = {
        facebook:"https://www.facebook.com/andrewyang2020/",
        instagram:"https://www.instagram.com/andrewyang2020/?hl=en",
        twitter:"https://twitter.com/AndrewYang",
-       createdAt: new Date (),
-       updatedAt: new Date ()
-   
-     },
-     {
-       name:"Bill Weld",
-       candidate_img_url:"https://ewscripps.brightspotcdn.com/dims4/default/b412fd8/2147483647/strip/true/crop/3288x4753+0+0/resize/996x1440!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F86%2F2e%2F7fc0bc6d41478284c5f7016d713b%2F2020-candidates-gallery-bill-weld.jpg",
-       political_party:"Republican",
-       political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Republican_Disc.svg/300px-Republican_Disc.svg.png",
-       current_office:"None",
-       official_website:"https://weld2020.org/",
-       facebook:"https://www.facebook.com/GovBillWeld/",
-       instagram:"https://www.instagram.com/bill_weld2020/",
-       twitter:"https://twitter.com/GovBillWeld",
-       createdAt: new Date (),
-       updatedAt: new Date ()
+       createdAt: new Date(),
+       updatedAt: new Date()
    
      }], {})
   },

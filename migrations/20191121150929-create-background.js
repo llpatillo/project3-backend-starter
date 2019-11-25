@@ -11,10 +11,16 @@ module.exports = {
       candidate_id: {
         type: Sequelize.INTEGER
       },
-      education: {
+      name: {
         type: Sequelize.STRING
       },
-      hometown: {
+      birthdate: {
+        type: Sequelize.STRING
+      },
+      place_of_birth: {
+        type: Sequelize.STRING
+      },
+      education: {
         type: Sequelize.STRING
       },
       family: {

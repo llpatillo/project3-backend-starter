@@ -5,7 +5,7 @@ module.exports = (sequelize, DataTypes) => {
     name: DataTypes.STRING,
     category: DataTypes.STRING,
     for_against: DataTypes.STRING,
-    expanded_view: DataTypes.STRING
+    expanded_view: DataTypes.TEXT
   }, {});
   Viewpoint.associate = function(models) {
     Viewpoint.belongsTo(models.Candidate, { foreignKey: 'candidate_id'})
