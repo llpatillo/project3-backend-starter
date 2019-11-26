@@ -3,12 +3,17 @@ var router = express.Router();
 const Candidate = require('../models').Candidate;
 const Background = require('../models').Background;
 const Viewpoint = require('../models').Viewpoint;
+const Comment = require('../models').Comment;
 
 
 
-// GET all canadates
+
+// GET all candidates
 router.get('/', (req,res) => {
-    Candidate.findAll()
+    Candidate.findAll({
+        include: [{ model: Comment }]
+    })
+
     .then(candidates => {
         res.json({ candidates })
     })

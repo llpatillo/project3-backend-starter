@@ -14,6 +14,7 @@ module.exports = (sequelize, DataTypes) => {
   Candidate.associate = function(models) {
     Candidate.hasMany(models.Viewpoint, { foreignKey: 'candidate_id'})  
     Candidate.hasOne(models.Background, { foreignKey: 'id'})
+    Candidate.hasMany(models.Comment, { foreignKey: 'candidate_id'})
   };
   return Candidate;
 };
