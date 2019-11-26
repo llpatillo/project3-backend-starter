@@ -10,9 +10,7 @@ const Comment = require('../models').Comment;
 
 // GET all candidates
 router.get('/', (req,res) => {
-    Candidate.findAll({
-        include: [{ model: Comment }]
-    })
+    Candidate.findAll()
 
     .then(candidates => {
         res.json({ candidates })
@@ -28,6 +26,9 @@ router.get('/:id', (req,res) => {
             },
             {
                 model: Viewpoint
+            },
+            {
+                model: Comment
             }
         ]
     })

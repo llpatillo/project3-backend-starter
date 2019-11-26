@@ -18,7 +18,7 @@ module.exports = {
         name: "Joe Biden",
         category: "Education",
         for_against: "For",
-        expanded_view: "\"Providing two years of community college or other high-quality training program without debt for any hard-working individual looking to learn and improve their skills to keep up with the changing nature of work. In 2015, President Obama and Vice President Biden proposed to make two years of community college tuition-free for hard-working students. Since then, Vice President Biden and Dr. Biden have championed progress toward this goal, and hundreds of state and local College Promise programs have expanded access to free two-year or four-year college educations. As president, Biden will build on this progress by enacting legislation to ensure that every hard-working individual, including those attending school part-time and DREAMers (young adults who came to U.S. as children), can go to community college for up to two years without having to pay tuition. Individuals will also be able to use these funds to pursue training programs that have a track record of participants completing their programs and securing good jobs. Importantly, this initiative will not just be for recent high school graduates; it will also be available to adults who never had the chance to pursue additional education beyond high school or who need to learn new skills. And, students who do want a bachelor�s degree could then transfer to a four-year school, including to Historically Black Colleges and Universities and Minority-Serving Institutions that play vital roles in their communities. This plan will be a federal-state partnership, with the federal government covering 75% of the cost and states contributing the remaining obligation. The federal government will cover up to 95% of the cost for Indian Tribes operating community colleges serving low-income students.\"",
+        expanded_view: "\"Providing two years of community college or other high-quality training program without debt for any hard-working individual looking to learn and improve their skills to keep up with the changing nature of work. In 2015, President Obama and Vice President Biden proposed to make two years of community college tuition-free for hard-working students. Since then, Vice President Biden and Dr. Biden have championed progress toward this goal, and hundreds of state and local College Promise programs have expanded access to free two-year or four-year college educations. As president, Biden will build on this progress by enacting legislation to ensure that every hard-working individual, including those attending school part-time and DREAMers (young adults who came to U.S. as children), can go to community college for up to two years without having to pay tuition. Individuals will also be able to use these funds to pursue training programs that have a track record of participants completing their programs and securing good jobs. Importantly, this initiative will not just be for recent high school graduates; it will also be available to adults who never had the chance to pursue additional education beyond high school or who need to learn new skills. And, students who do want a bachelor\'s degree could then transfer to a four-year school, including to Historically Black Colleges and Universities and Minority-Serving Institutions that play vital roles in their communities. This plan will be a federal-state partnership, with the federal government covering 75% of the cost and states contributing the remaining obligation. The federal government will cover up to 95% of the cost for Indian Tribes operating community colleges serving low-income students.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -38,7 +38,7 @@ module.exports = {
         name: "Joe Biden",
         category: "Abortion",
         for_against: "For",
-        expanded_view: "\"Restore federal funding for Planned Parenthood. The Obama-Biden administration fought Republican attacks on funding for Planned Parenthood again and again. As president, Biden will reissue guidance specifying that states cannot refuse Medicaid funding for Planned Parenthood and other providers that refer for abortions or provide related information and reverse the Trump Administration�s rule preventing Planned Parenthood and certain other family planning programs from obtaining Title X funds.\"",
+        expanded_view: "\"Restore federal funding for Planned Parenthood. The Obama-Biden administration fought Republican attacks on funding for Planned Parenthood again and again. As president, Biden will reissue guidance specifying that states cannot refuse Medicaid funding for Planned Parenthood and other providers that refer for abortions or provide related information and reverse the Trump Administration\'s rule preventing Planned Parenthood and certain other family planning programs from obtaining Title X funds.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -48,7 +48,7 @@ module.exports = {
         name: "Joe Biden",
         category: "Immigration",
         for_against: "Other",
-        expanded_view: "Biden has harshly criticized the Trump adminstration's immigration policy, including the attempt to tie the DREAM Act (granting citizenship to immigrants brought illegally to the U.S. as children) to border wall funding.  However, in 2006 Biden supported a border fence, and said, \"I voted unlike most Democrats � and some of you won�t like it � I voted for 700 miles of fence.  People are driving across that border with tons, tons � hear me � tons of everything from byproducts for methamphetamine to cocaine to heroin. And it�s all coming up through corrupt Mexico.\"",
+        expanded_view: "Biden has harshly criticized the Trump adminstration's immigration policy, including the attempt to tie the DREAM Act (granting citizenship to immigrants brought illegally to the U.S. as children) to border wall funding.  However, in 2006 Biden supported a border fence, and said, \'I voted unlike most Democrats \' and some of you won\'t like it \' I voted for 700 miles of fence.  People are driving across that border with tons, tons \' hear me \' tons of everything from byproducts for methamphetamine to cocaine to heroin. And it\'s all coming up through corrupt Mexico.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -58,7 +58,7 @@ module.exports = {
         name: "Joe Biden",
         category: "Healthcare",
         for_against: "Other",
-        expanded_view: "\"We should defend and build upon the Affordable Care Act to ensure every American has access to quality, affordable health care.\"",
+        expanded_view: "\'We should defend and build upon the Affordable Care Act to ensure every American has access to quality, affordable health care.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -88,7 +88,7 @@ module.exports = {
         name: "Joe Biden",
         category: "Wealth and Income Equality",
         for_against: "For",
-        expanded_view: "\"You have 256,000 people right here in Nevada that would be able to have ... 19 weeks of groceries and three months of rent paid, just by raising the minimum wage. It�s good for business, good for the economy, good for people.\"",
+        expanded_view: "\"You have 256,000 people right here in Nevada that would be able to have ... 19 weeks of groceries and three months of rent paid, just by raising the minimum wage. It\'s good for business, good for the economy, good for people.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -128,7 +128,7 @@ module.exports = {
         name: "Cory Booker",
         category: "Legalization of Marijuana",
         for_against: "For",
-        expanded_view: "\"Descheduling marijuana and applying that change retroactively to people currently serving time for marijuana offenses is a necessary step in correcting this unjust system. States have so far led the way in reforming our criminal justice system and it�s about time the federal government catches up and begins to assert leadership.\"",
+        expanded_view: "\"Descheduling marijuana and applying that change retroactively to people currently serving time for marijuana offenses is a necessary step in correcting this unjust system. States have so far led the way in reforming our criminal justice system and it\'s about time the federal government catches up and begins to assert leadership.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -148,7 +148,7 @@ module.exports = {
         name: "Cory Booker",
         category: "Immigration",
         for_against: "For",
-        expanded_view: "\"Dreamers are our friends, neighbors and coworkers. They are business owners, leaders in our communities, and serve in our military.\n\n\"The Trump Administration�s termination of DACA cruelly threatens the 22,000 DACA recipients living and working in New Jersey with deportation. It�s also a direct hit to our state�s economy amounting to $1.6 billion in annual losses to NJ�s GDP if Congress does not act to protect these individuals from deportation.\n\n\"Ending the DACA program isn�t just cruel and inhumane - it�s a bad policy that hurts our economy and doesn�t make our communities safer.\"",
+        expanded_view: "\"Dreamers are our friends, neighbors and coworkers. They are business owners, leaders in our communities, and serve in our military.\n\n\"The Trump Administration\'s termination of DACA cruelly threatens the 22,000 DACA recipients living and working in New Jersey with deportation. It\'s also a direct hit to our state\'s economy amounting to $1.6 billion in annual losses to NJ\'s GDP if Congress does not act to protect these individuals from deportation.\n\n\"Ending the DACA program isn\'t just cruel and inhumane - it\'s a bad policy that hurts our economy and doesn\'t make our communities safer.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -158,7 +158,7 @@ module.exports = {
         name: "Cory Booker",
         category: "Healthcare",
         for_against: "For",
-        expanded_view: "Speaking against a Republican health care reform bill that removed some insurance benefit requirements, Booker said, \"This will cost American lives if it ever becomes law. This will mean death, pain, and suffering to people�s families. I�m not interested in the politics. This is something that my colleagues, people I respect across the aisle, they just can�t support. For God�s sake, for the sake of our country and what we stand for, they cannot pass this legislation.\"",
+        expanded_view: "Speaking against a Republican health care reform bill that removed some insurance benefit requirements, Booker said, \"This will cost American lives if it ever becomes law. This will mean death, pain, and suffering to people\'s families. I\'m not interested in the politics. This is something that my colleagues, people I respect across the aisle, they just can\'t support. For God\'s sake, for the sake of our country and what we stand for, they cannot pass this legislation.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -188,7 +188,7 @@ module.exports = {
         name: "Cory Booker",
         category: "Wealth and Income Equality",
         for_against: "For",
-        expanded_view: "\"While the Trump tax cuts made the Koch Brothers 'richer' � real wages, for everyone else, are actually less than they were before the passage. The $1.5 trillion GOP tax giveaway for the rich has led to soaring corporate profits and CEO pay at the expense of everyone else.\"",
+        expanded_view: "\"While the Trump tax cuts made the Koch Brothers 'richer' \' real wages, for everyone else, are actually less than they were before the passage. The $1.5 trillion GOP tax giveaway for the rich has led to soaring corporate profits and CEO pay at the expense of everyone else.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -218,7 +218,7 @@ module.exports = {
         name: "Pete Buttigieg",
         category: "Education",
         for_against: "For",
-        expanded_view: "\"We must make public college truly debt-free for lower-income families. We will do this through a state-federal partnership that makes public tuition affordable for all and completely free at lower incomes�combined with a large increase in Pell Grants that provides for basic living expenses and keeps up with inflation. Middle-income families at public colleges will pay zero tuition.\"",
+        expanded_view: "\"We must make public college truly debt-free for lower-income families. We will do this through a state-federal partnership that makes public tuition affordable for all and completely free at lower incomes\'combined with a large increase in Pell Grants that provides for basic living expenses and keeps up with inflation. Middle-income families at public colleges will pay zero tuition.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -238,7 +238,7 @@ module.exports = {
         name: "Pete Buttigieg",
         category: "Abortion",
         for_against: "For",
-        expanded_view: "\"I�m from Indiana, so I have a lot of friends and supporters who don�t share my views on choice. I understand that it�s an intensely felt and very personal issue for a lot of people. But there is no decision more personal for a lot of women than this one. I believe that a male government official like me does not belong in the middle of decisions that are best left to women and their doctors.\"",
+        expanded_view: "\"I\'m from Indiana, so I have a lot of friends and supporters who don\'t share my views on choice. I understand that it\'s an intensely felt and very personal issue for a lot of people. But there is no decision more personal for a lot of women than this one. I believe that a male government official like me does not belong in the middle of decisions that are best left to women and their doctors.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -268,7 +268,7 @@ module.exports = {
         name: "Pete Buttigieg",
         category: "Social Security",
         for_against: "For ",
-        expanded_view: "\"Mayor Pete, as he�s often called, said he�d like to increase the cap of income eligible for payroll taxes from what it is now at $132,900 to about $250,000, while speaking at an AARP Forum in Iowa. 'I have a very personal stake in making sure that Social Security and Medicare are there when you retire and when I retire, and if you look at the numbers, that won�t happen without some adjustments,'�he said.\"",
+        expanded_view: "\"Mayor Pete, as he\'s often called, said he\'d like to increase the cap of income eligible for payroll taxes from what it is now at $132,900 to about $250,000, while speaking at an AARP Forum in Iowa. 'I have a very personal stake in making sure that Social Security and Medicare are there when you retire and when I retire, and if you look at the numbers, that won\'t happen without some adjustments,'\'he said.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -288,7 +288,7 @@ module.exports = {
         name: "Pete Buttigieg",
         category: "Wealth and Income Equality",
         for_against: "For",
-        expanded_view: "Buttigieg implemented a minimum wage increase for South Bend, Indiana city employees, and encouraged private businesses to follow suit.\n\n\"One thing I've learned in this job is don�t wait on Congress, and that�s why we�re trying to lead by example here in South Bend.\"",
+        expanded_view: "Buttigieg implemented a minimum wage increase for South Bend, Indiana city employees, and encouraged private businesses to follow suit.\n\n\"One thing I've learned in this job is don\'t wait on Congress, and that\'s why we\'re trying to lead by example here in South Bend.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -418,7 +418,7 @@ module.exports = {
         name: "Tulsi Gabbard",
         category: "Education",
         for_against: "For",
-        expanded_view: "\"Since I�ve been in Congress, I�ve supported legislation to help alleviate the burden of student loans on our students and begin to find a solution to this crisis. I helped to launch the Congressional Future Caucus my first year in Congress which is focused on bringing millennial leaders from both sides of the aisle together, to address the challenges of our generation. We introduced the Pathways to Affordable Education Act in my first term, aimed at safeguarding Pell Grants through increased funding and expanding eligibility to increase access for low-income students. I�ve also supported bills like the HELP for Students and Parents Act which would give tax credits to businesses that assist in paying off the student loans of their employees, taking much off of their monthly payment burden off of their backs of these working graduates.\n\n\"Now, this year I�ve supported legislation like the College for All Act, which would eliminate tuition and fees at four-year public colleges and universities for families that make up to $125,000 a year, and it would make community college tuition fee-free for everyone-- something that�s already practice in countries like Germany, Finland, Denmark, Iceland, Norway and Sweden. It would also help us to dramatically reduce crushing student loan debt for both our students and their parents by cutting all student loan interest rates for new borrowers in half; enabling existing borrowers to refinance their loans based on the interest rates available to new borrowers � less than 2 percent for federal loans made to undergraduates; and preventing the federal government from profiting off of the student loan program.\"\n.",
+        expanded_view: "\"Since I\'ve been in Congress, I\'ve supported legislation to help alleviate the burden of student loans on our students and begin to find a solution to this crisis. I helped to launch the Congressional Future Caucus my first year in Congress which is focused on bringing millennial leaders from both sides of the aisle together, to address the challenges of our generation. We introduced the Pathways to Affordable Education Act in my first term, aimed at safeguarding Pell Grants through increased funding and expanding eligibility to increase access for low-income students. I\'ve also supported bills like the HELP for Students and Parents Act which would give tax credits to businesses that assist in paying off the student loans of their employees, taking much off of their monthly payment burden off of their backs of these working graduates.\n\n\"Now, this year I\'ve supported legislation like the College for All Act, which would eliminate tuition and fees at four-year public colleges and universities for families that make up to $125,000 a year, and it would make community college tuition fee-free for everyone-- something that\'s already practice in countries like Germany, Finland, Denmark, Iceland, Norway and Sweden. It would also help us to dramatically reduce crushing student loan debt for both our students and their parents by cutting all student loan interest rates for new borrowers in half; enabling existing borrowers to refinance their loans based on the interest rates available to new borrowers \' less than 2 percent for federal loans made to undergraduates; and preventing the federal government from profiting off of the student loan program.\"\n.",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -448,7 +448,7 @@ module.exports = {
         name: "Tulsi Gabbard",
         category: "Immigration",
         for_against: "Other",
-        expanded_view: "\"President Trump�s decision to end the Deferred Action for Childhood Arrivals (DACA) program is wrong. It will break up families and punish young people who were brought to this country as minors through no choice or fault of their own. These are people who have grown up in the United States, and who know no other country to be their home. DACA transformed the lives and futures of hundreds of thousands of young people, in Hawaii and across the country. Because of DACA they've been able to go to college, find a job, support their family, serve their country, and live free from the constant fear of deportation.\"\n",
+        expanded_view: "\"President Trump\'s decision to end the Deferred Action for Childhood Arrivals (DACA) program is wrong. It will break up families and punish young people who were brought to this country as minors through no choice or fault of their own. These are people who have grown up in the United States, and who know no other country to be their home. DACA transformed the lives and futures of hundreds of thousands of young people, in Hawaii and across the country. Because of DACA they've been able to go to college, find a job, support their family, serve their country, and live free from the constant fear of deportation.\"\n",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -488,7 +488,7 @@ module.exports = {
         name: "Tulsi Gabbard",
         category: "Wealth and Income Equality",
         for_against: "For",
-        expanded_view: "\"This tax bill was written by and for lobbyists and the corporations who sign their paychecks, without consideration for the lasting impact it will have on low-income and middle-class families who are struggling just to make ends meet - the reality for so many Hawai�i families and millions more nationwide. It should be no surprise that with this legislation, the top 1% in our country will receive over 82 percent of the tax benefit.\n\n\"While industry giants see the largest corporate tax cut in American history made permanent, 86 million low and middle class families will pay higher taxes in eight years than they do today.\"\n",
+        expanded_view: "\"This tax bill was written by and for lobbyists and the corporations who sign their paychecks, without consideration for the lasting impact it will have on low-income and middle-class families who are struggling just to make ends meet - the reality for so many Hawai\'i families and millions more nationwide. It should be no surprise that with this legislation, the top 1% in our country will receive over 82 percent of the tax benefit.\n\n\"While industry giants see the largest corporate tax cut in American history made permanent, 86 million low and middle class families will pay higher taxes in eight years than they do today.\"\n",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -528,7 +528,7 @@ module.exports = {
         name: "Kamala Harris",
         category: "Legalization of Marijuana",
         for_against: "For",
-        expanded_view: "\"The fact is?,? marijuana laws are not applied and enforced in the same way for all people. That�s why I've signed onto Cory Booker�s Marijuana Justice Act? to make marijuana legal at the federal level?. It�s the smart thing to do?.\"",
+        expanded_view: "\"The fact is?,? marijuana laws are not applied and enforced in the same way for all people. That\'s why I've signed onto Cory Booker\'s Marijuana Justice Act? to make marijuana legal at the federal level?. It\'s the smart thing to do?.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -538,7 +538,7 @@ module.exports = {
         name: "Kamala Harris",
         category: "Abortion",
         for_against: "For",
-        expanded_view: "\"Senate GOP�s proposed 20-week abortion ban is another example of politicians playing politics with health care.\"\n",
+        expanded_view: "\"Senate GOP\'s proposed 20-week abortion ban is another example of politicians playing politics with health care.\"\n",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -548,7 +548,7 @@ module.exports = {
         name: "Kamala Harris",
         category: "Immigration",
         for_against: "Other",
-        expanded_view: "\"Every single day that Congress refuses to act, 122 more DACA recipients lose their status. Passing the Dream Act is a matter of morality. This is a matter of what is the right thing to do, among leaders who say that they have power. Here�s what I have to say to them: use your power and keep our promise to these young people.\"",
+        expanded_view: "\"Every single day that Congress refuses to act, 122 more DACA recipients lose their status. Passing the Dream Act is a matter of morality. This is a matter of what is the right thing to do, among leaders who say that they have power. Here\'s what I have to say to them: use your power and keep our promise to these young people.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -558,7 +558,7 @@ module.exports = {
         name: "Kamala Harris",
         category: "Healthcare",
         for_against: "Other",
-        expanded_view: "\"In America, health care should be a right, not a privilege only for those who can afford it. It�s why we need Medicare for All. ...\n\n\"First, when we pass my plan, all Americans will immediately have the ability to buy into Medicare. This is similar to the immediate, introductory buy-in provided in Senator Sanders� Medicare for All bill. Right away, it will lower costs and give us a baseline plan as we transition to Medicare for All. ...\n\n\"At the end of the ten-year transition, every American will be a part of this new Medicare system. They will get insurance either through the new public Medicare plan or a Medicare plan offered by a private insurer within that system. Seniors will see stronger Medicare benefits than they have now. We will cover millions more people who don�t have health insurance today. And we will reduce costs, save our country money, and ensure that no American has to sacrifice getting the care they need just because the cost is a barrier.\"",
+        expanded_view: "\"In America, health care should be a right, not a privilege only for those who can afford it. It\'s why we need Medicare for All. ...\n\n\"First, when we pass my plan, all Americans will immediately have the ability to buy into Medicare. This is similar to the immediate, introductory buy-in provided in Senator Sanders\' Medicare for All bill. Right away, it will lower costs and give us a baseline plan as we transition to Medicare for All. ...\n\n\"At the end of the ten-year transition, every American will be a part of this new Medicare system. They will get insurance either through the new public Medicare plan or a Medicare plan offered by a private insurer within that system. Seniors will see stronger Medicare benefits than they have now. We will cover millions more people who don\'t have health insurance today. And we will reduce costs, save our country money, and ensure that no American has to sacrifice getting the care they need just because the cost is a barrier.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -568,7 +568,7 @@ module.exports = {
         name: "Kamala Harris",
         category: "Social Security",
         for_against: "For",
-        expanded_view: "\"Today, U.S. Senator Kamala D. Harris (D-CA) joined her colleagues to introduce legislation to expand Social Security benefits and strengthen the retirement program for generations to come. ... The bill would ensure that Social Security could pay every benefit owed to every eligible American for the next 52 years, according to the retirement system�s chief actuary. It would extend the program�s solvency by making the wealthiest 1.8 percent of Americans � those with incomes of more than $250,000 a year � pay the same rate into the retirement system as everyone else already pays. Current law caps the amount of income subject to payroll taxes at $132,900.\"",
+        expanded_view: "\"Today, U.S. Senator Kamala D. Harris (D-CA) joined her colleagues to introduce legislation to expand Social Security benefits and strengthen the retirement program for generations to come. ... The bill would ensure that Social Security could pay every benefit owed to every eligible American for the next 52 years, according to the retirement system\'s chief actuary. It would extend the program\'s solvency by making the wealthiest 1.8 percent of Americans \' those with incomes of more than $250,000 a year \' pay the same rate into the retirement system as everyone else already pays. Current law caps the amount of income subject to payroll taxes at $132,900.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -578,7 +578,7 @@ module.exports = {
         name: "Kamala Harris",
         category: "Climate change",
         for_against: "For",
-        expanded_view: "Harris has called for federal agencies to increase research into the impacts of climate change. For example, in 2017 she wrote, \"We request that the Government Accountability Office (GAO) undertake a study on the risks to human health and the environment posed by natural disasters� impacts on Superfund sites and evaluate what federal actions may be taken to reduce those risks.\"",
+        expanded_view: "Harris has called for federal agencies to increase research into the impacts of climate change. For example, in 2017 she wrote, \"We request that the Government Accountability Office (GAO) undertake a study on the risks to human health and the environment posed by natural disasters\' impacts on Superfund sites and evaluate what federal actions may be taken to reduce those risks.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -588,7 +588,7 @@ module.exports = {
         name: "Kamala Harris",
         category: "Wealth and Income Equality",
         for_against: "For",
-        expanded_view: "\"Under [Harris'] plan, she�ll reverse President Trump�s trillion-dollar tax cut for big corporations and the top 1% and use that money to give a tax credit of up to $6,000 to working families each year.\"",
+        expanded_view: "\"Under [Harris'] plan, she\'ll reverse President Trump\'s trillion-dollar tax cut for big corporations and the top 1% and use that money to give a tax credit of up to $6,000 to working families each year.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -598,7 +598,7 @@ module.exports = {
         name: "Kamala Harris",
         category: "LGBTQ rights",
         for_against: "For",
-        expanded_view: "As California�s attorney general, Harris refused to defend Proposition 8, the state�s ban on same-sex marriage, and later officiated the wedding of Prop 8 plaintiffs Kris Perry and Sandy Stier. She also refused to certify a �Kill the Gays� ballot initiative that would have instituted the death penalty for homosexuality.",
+        expanded_view: "As California\'s attorney general, Harris refused to defend Proposition 8, the state\'s ban on same-sex marriage, and later officiated the wedding of Prop 8 plaintiffs Kris Perry and Sandy Stier. She also refused to certify a \'Kill the Gays\' ballot initiative that would have instituted the death penalty for homosexuality.",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -608,7 +608,7 @@ module.exports = {
         name: "Amy Klobuchar",
         category: "Gun Control",
         for_against: "For",
-        expanded_view: "\"As President, Senator Klobuchar will not fold. She will stand up for a safer world by instituting universal background checks by closing the gun show loophole, banning bump stocks that can increase a semiautomatic rifle�s rate of fire to 700 rounds per minute , and banning high capacity magazines that hold more than 10 rounds of ammunition.",
+        expanded_view: "\"As President, Senator Klobuchar will not fold. She will stand up for a safer world by instituting universal background checks by closing the gun show loophole, banning bump stocks that can increase a semiautomatic rifle\'s rate of fire to 700 rounds per minute , and banning high capacity magazines that hold more than 10 rounds of ammunition.",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -698,7 +698,7 @@ module.exports = {
         name: "Amy Klobuchar",
         category: "LGBTQ rights",
         for_against: "For",
-        expanded_view: "In May 2017, Klobuchar was one of 46 senators to introduce the Equality Act of 2017, described by Representative David Cicilline as ensuring \"that every LGBT person can live their lives free from the fear of discrimination. Above all, it�s about honoring the values that have guided our nation since its founding. It�s critical that Congress pass the Equality Act into law",
+        expanded_view: "In May 2017, Klobuchar was one of 46 senators to introduce the Equality Act of 2017, described by Representative David Cicilline as ensuring \"that every LGBT person can live their lives free from the fear of discrimination. Above all, it\'s about honoring the values that have guided our nation since its founding. It\'s critical that Congress pass the Equality Act into law",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -708,7 +708,7 @@ module.exports = {
         name: "Bernie Sanders",
         category: "Gun Control",
         for_against: "For",
-        expanded_view: "�I represent a state which is a very rural state -- and my state has virtually no gun control at all -- but despite that, I voted to ban certain types of semi-automatic weapons. I voted for an instant background check. And I voted to close the loophole that currently exists for gun shows.�",
+        expanded_view: "\'I represent a state which is a very rural state -- and my state has virtually no gun control at all -- but despite that, I voted to ban certain types of semi-automatic weapons. I voted for an instant background check. And I voted to close the loophole that currently exists for gun shows.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -718,7 +718,7 @@ module.exports = {
         name: "Bernie Sanders",
         category: "Education",
         for_against: "For",
-        expanded_view: "�Pass the College for All Act to provide at least $48 billion per year to eliminate tuition and fees at four-year public colleges and universities, tribal colleges, community colleges, trade schools, and apprenticeship programs.\"",
+        expanded_view: "\'Pass the College for All Act to provide at least $48 billion per year to eliminate tuition and fees at four-year public colleges and universities, tribal colleges, community colleges, trade schools, and apprenticeship programs.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -728,7 +728,7 @@ module.exports = {
         name: "Bernie Sanders",
         category: "Legalization of Marijuana",
         for_against: "For",
-        expanded_view: "�We will legalize marijuana and vacate and expunge past marijuana convictions.�",
+        expanded_view: "\'We will legalize marijuana and vacate and expunge past marijuana convictions.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -738,7 +738,7 @@ module.exports = {
         name: "Bernie Sanders",
         category: "Abortion",
         for_against: "For",
-        expanded_view: "�The attempt by Republicans to cut off support for Planned Parenthood is an attack on women�s health.�",
+        expanded_view: "\'The attempt by Republicans to cut off support for Planned Parenthood is an attack on women\'s health.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -748,7 +748,7 @@ module.exports = {
         name: "Bernie Sanders",
         category: "Immigration",
         for_against: "Other",
-        expanded_view: "�The Trump administration�s treatment of immigration exclusively as a criminal and national security matter is inhumane, impractical, and must end. As president, Bernie Sanders would make undocumented immigration a civil matter, and fundamentally reform the government agencies tasked with enforcing immigration law in a way that views immigration as a historically valued process that�s woven into our country�s fabric.�",
+        expanded_view: "\'The Trump administration\'s treatment of immigration exclusively as a criminal and national security matter is inhumane, impractical, and must end. As president, Bernie Sanders would make undocumented immigration a civil matter, and fundamentally reform the government agencies tasked with enforcing immigration law in a way that views immigration as a historically valued process that\'s woven into our country\'s fabric.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -758,7 +758,7 @@ module.exports = {
         name: "Bernie Sanders",
         category: "Healthcare",
         for_against: "For",
-        expanded_view: "�Instead of addressing the serious issues facing this country, Republicans have decided to wage war on every possible front against access to safe, affordable health care. Enough is enough. We cannot go back to the days when women in America did not have the right to control their own bodies. Access to safe and legal abortion is a constitutional right.�",
+        expanded_view: "\'Instead of addressing the serious issues facing this country, Republicans have decided to wage war on every possible front against access to safe, affordable health care. Enough is enough. We cannot go back to the days when women in America did not have the right to control their own bodies. Access to safe and legal abortion is a constitutional right.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -768,7 +768,7 @@ module.exports = {
         name: "Bernie Sanders",
         category: "Social Security",
         for_against: "For",
-        expanded_view: "�We have got to make it very clear that we are going to protect Social Security, we�re going to make it solvent for our kids & grandchildren � and, by the way, we are not going to tolerate ANYBODY who is thinking of cutting Social Security or raising the retirement age.��At a time when more than half of older Americans over the age of 55 have no retirement savings, our job is to expand Social Security to make sure that everyone in this country can retire with the dignity they have earned and everyone with a disability can live with the security they need�",
+        expanded_view: "\'We have got to make it very clear that we are going to protect Social Security, we\'re going to make it solvent for our kids & grandchildren \' and, by the way, we are not going to tolerate ANYBODY who is thinking of cutting Social Security or raising the retirement age.\'\'At a time when more than half of older Americans over the age of 55 have no retirement savings, our job is to expand Social Security to make sure that everyone in this country can retire with the dignity they have earned and everyone with a disability can live with the security they need\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -778,7 +778,7 @@ module.exports = {
         name: "Bernie Sanders",
         category: "Climate change",
         for_against: "For",
-        expanded_view: "Senator Sanders� Residential Energy Savings Act would fund energy efficiency financing programs that help homeowners and residents invest in energy efficiency retrofits.",
+        expanded_view: "Senator Sanders\' Residential Energy Savings Act would fund energy efficiency financing programs that help homeowners and residents invest in energy efficiency retrofits.",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -788,7 +788,7 @@ module.exports = {
         name: "Bernie Sanders",
         category: "Wealth and Income Equality",
         for_against: "For",
-        expanded_view: "�At a time of massive wealth and income inequality, we need a progressive tax system in this country that is based on the ability to pay. It is unacceptable that major corporations have paid nothing in federal income taxes, and that corporate CEOs in this country often enjoy an effective tax rate that is lower than their secretaries. If we are serious about reforming the tax code and rebuilding the middle class, we have got to demand that the wealthiest Americans, large corporations, and Wall Street pay their fair share in taxes.",
+        expanded_view: "\'At a time of massive wealth and income inequality, we need a progressive tax system in this country that is based on the ability to pay. It is unacceptable that major corporations have paid nothing in federal income taxes, and that corporate CEOs in this country often enjoy an effective tax rate that is lower than their secretaries. If we are serious about reforming the tax code and rebuilding the middle class, we have got to demand that the wealthiest Americans, large corporations, and Wall Street pay their fair share in taxes.",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -808,7 +808,7 @@ module.exports = {
         name: "Tom Steyer",
         category: "Gun Control",
         for_against: "For",
-        expanded_view: "�Politics in Washington aren�t working. Congress won�t take the most basic steps, such as requiring background checks on every gun sale in America, to reduce the death toll from guns.�",
+        expanded_view: "\'Politics in Washington aren\'t working. Congress won\'t take the most basic steps, such as requiring background checks on every gun sale in America, to reduce the death toll from guns.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -818,7 +818,7 @@ module.exports = {
         name: "Tom Steyer",
         category: "Education",
         for_against: "For",
-        expanded_view: "�I support providing two-years of free tuition to community colleges. Every American should have the right to a free, quality, public education from universal pre-kindergarten through higher education, including workforce and technical training.�",
+        expanded_view: "\'I support providing two-years of free tuition to community colleges. Every American should have the right to a free, quality, public education from universal pre-kindergarten through higher education, including workforce and technical training.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -828,7 +828,7 @@ module.exports = {
         name: "Tom Steyer",
         category: "Legalization of Marijuana",
         for_against: "For",
-        expanded_view: "�I�m for legalizing marijuana. I�m from California, we also have legalized marijuana.�",
+        expanded_view: "\'I\'m for legalizing marijuana. I\'m from California, we also have legalized marijuana.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -838,7 +838,7 @@ module.exports = {
         name: "Tom Steyer",
         category: "Abortion",
         for_against: "For",
-        expanded_view: "�Republicans have launched an outrageous assault on reproductive rights. Abortion is healthcare. The draconian anti-choice bills in GA, AL, and OH seize power on behalf of a centralized group of legislators. Unacceptable.�",
+        expanded_view: "\'Republicans have launched an outrageous assault on reproductive rights. Abortion is healthcare. The draconian anti-choice bills in GA, AL, and OH seize power on behalf of a centralized group of legislators. Unacceptable.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -848,7 +848,7 @@ module.exports = {
         name: "Tom Steyer",
         category: "Immigration",
         for_against: "Other",
-        expanded_view: "��I support decriminalizing unauthorized border crossings. These matters are better handled through civil proceedings,� Steyer told The Post.�",
+        expanded_view: "\'\'I support decriminalizing unauthorized border crossings. These matters are better handled through civil proceedings,\' Steyer told The Post.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -858,7 +858,7 @@ module.exports = {
         name: "Tom Steyer",
         category: "Healthcare",
         for_against: "Against",
-        expanded_view: "Steyer opposed the American Health Care Act, which would have eased essential health benefit requirements and created a block grant system for Medicaid.� For example, in May 2017 he wrote, �The AHCA is a huge tax cut for the richest Americans paid for by throwing everyone else�s healthcare under the bus.�-�Proud to stand with Planned Parenthood, now and always.�",
+        expanded_view: "Steyer opposed the American Health Care Act, which would have eased essential health benefit requirements and created a block grant system for Medicaid.\' For example, in May 2017 he wrote, \'The AHCA is a huge tax cut for the richest Americans paid for by throwing everyone else\'s healthcare under the bus.\'-\'Proud to stand with Planned Parenthood, now and always.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -878,7 +878,7 @@ module.exports = {
         name: "Tom Steyer",
         category: "Climate change",
         for_against: "For",
-        expanded_view: "As the founder of the political advocacy group NextGen Climate (now NextGen America), Steyer has advocated for many policies aimed at fighting climate change, including various renewable energy investments.��For example, in 2015 he wrote, �Today President Obama took an important step by committing the country to using 20% renewable energy by 2030. But we must still do more.",
+        expanded_view: "As the founder of the political advocacy group NextGen Climate (now NextGen America), Steyer has advocated for many policies aimed at fighting climate change, including various renewable energy investments.\'\'For example, in 2015 he wrote, \'Today President Obama took an important step by committing the country to using 20% renewable energy by 2030. But we must still do more.",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -888,7 +888,7 @@ module.exports = {
         name: "Tom Steyer",
         category: "Wealth and Income Equality",
         for_against: "For",
-        expanded_view: "�I will enact policies that ensure that all corporations and all income classes will pay their fair share. I will repeal the Trump tax cuts and institute a wealth tax � 1% on those whose net worth is above $32 million � that will generate over $1 trillion for healthcare, education, environmental, and criminal justice programs. It will not continue to provide favorable treatment to the rich and powerful at the expense of low-income and middle-class Americans, nor will it starve the government of the resources needed to deliver services.�",
+        expanded_view: "\'I will enact policies that ensure that all corporations and all income classes will pay their fair share. I will repeal the Trump tax cuts and institute a wealth tax \' 1% on those whose net worth is above $32 million \' that will generate over $1 trillion for healthcare, education, environmental, and criminal justice programs. It will not continue to provide favorable treatment to the rich and powerful at the expense of low-income and middle-class Americans, nor will it starve the government of the resources needed to deliver services.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -908,7 +908,7 @@ module.exports = {
         name: "Donald Trump",
         category: "Gun Control",
         for_against: "Other",
-        expanded_view: " \" We�re going to do strong background checks. We�re going to work on getting the age up to 21 instead of 18.\"",
+        expanded_view: " \" We\'re going to do strong background checks. We\'re going to work on getting the age up to 21 instead of 18.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -918,7 +918,7 @@ module.exports = {
         name: "Donald Trump",
         category: "Education",
         for_against: "Other",
-        expanded_view: "\"That�s probably one of the only things the government shouldn�t make money off � I think it�s terrible that one of the only profit centers we have is student loans.\"",
+        expanded_view: "\"That\'s probably one of the only things the government shouldn\'t make money off \' I think it\'s terrible that one of the only profit centers we have is student loans.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -928,7 +928,7 @@ module.exports = {
         name: "Donald Trump",
         category: "Legalization of Marijuana",
         for_against: " Against ",
-        expanded_view: "When signing a budget bill in 2019, Trump's statement said, \"Division C, section 537, provides that the Department of Justice may not use any funds to prevent implementation of medical marijuana laws by various States and territories. I will treat this provision consistent with the President�s constitutional responsibility to faithfully execute the laws of the United States.\"",
+        expanded_view: "When signing a budget bill in 2019, Trump's statement said, \"Division C, section 537, provides that the Department of Justice may not use any funds to prevent implementation of medical marijuana laws by various States and territories. I will treat this provision consistent with the President\'s constitutional responsibility to faithfully execute the laws of the United States.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -948,7 +948,7 @@ module.exports = {
         name: "Donald Trump",
         category: "Immigration",
         for_against: " Against ",
-        expanded_view: "\"They say walls don�t work. Walls work 100 percent. Whether it�s El Paso � I really was smiling, because the other night I was in El Paso � we had a tremendous crowd, and � tremendous crowd. And I asked the people � many of whom were from El Paso, but they came from all over Texas. And I asked them. I said, 'Let me ask you, as a crowd: When the wall went up, was it better?' You were there, some of you. It was not only better; it was like 100 percent better.\"",
+        expanded_view: "\"They say walls don\'t work. Walls work 100 percent. Whether it\'s El Paso \' I really was smiling, because the other night I was in El Paso \' we had a tremendous crowd, and \' tremendous crowd. And I asked the people \' many of whom were from El Paso, but they came from all over Texas. And I asked them. I said, 'Let me ask you, as a crowd: When the wall went up, was it better?' You were there, some of you. It was not only better; it was like 100 percent better.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1008,7 +1008,7 @@ module.exports = {
         name: "Elizabeth Warren",
         category: "Gun Control",
         for_against: "For",
-        expanded_view: "�Gun violence has become far too common in America. Thoughts and prayers just aren�t enough. Congress has a moral responsibility to take common sense actions to stop this epidemic.� These bills are some of those common sense steps. Fully-automatic weapons have been illegal for over thirty years for good reason, and we must close the loophole that allows the modification of semi-automatic rifles into weapons that can harm hundreds in minutes. Large capacity magazines are meant for inflicting enormous damage -- it�s time to take these weapons of war off of our streets. And we need to do more to fix our broken background check system, to keep guns away from felons and other dangerous people.�",
+        expanded_view: "\'Gun violence has become far too common in America. Thoughts and prayers just aren\'t enough. Congress has a moral responsibility to take common sense actions to stop this epidemic.\' These bills are some of those common sense steps. Fully-automatic weapons have been illegal for over thirty years for good reason, and we must close the loophole that allows the modification of semi-automatic rifles into weapons that can harm hundreds in minutes. Large capacity magazines are meant for inflicting enormous damage -- it\'s time to take these weapons of war off of our streets. And we need to do more to fix our broken background check system, to keep guns away from felons and other dangerous people.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1018,7 +1018,7 @@ module.exports = {
         name: "Elizabeth Warren",
         category: "Education",
         for_against: "For",
-        expanded_view: "�Give every American the opportunity to attend a two-year or four-year public college without paying a dime in tuition or fees.�",
+        expanded_view: "\'Give every American the opportunity to attend a two-year or four-year public college without paying a dime in tuition or fees.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1028,7 +1028,7 @@ module.exports = {
         name: "Elizabeth Warren",
         category: "Legalization of Marijuana",
         for_against: "For",
-        expanded_view: "�So, actually, I supported Massachusetts changing its laws on marijuana. Massachusetts had decriminalized at that point and I thought it made a lot more sense for Massachusetts to go ahead and legalize marijuana, and I now support the legalization of marijuana.�",
+        expanded_view: "\'So, actually, I supported Massachusetts changing its laws on marijuana. Massachusetts had decriminalized at that point and I thought it made a lot more sense for Massachusetts to go ahead and legalize marijuana, and I now support the legalization of marijuana.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1038,7 +1038,7 @@ module.exports = {
         name: "Elizabeth Warren",
         category: "Abortion",
         for_against: "For",
-        expanded_view: "�The bill we are considering today would ban all abortions after 20 weeks, with only limited exceptions. It would force women to carry an unviable fetus to term. It would force women with severe health complications to stay pregnant until their lives were on the line. Whatever you believe about abortion generally, this legislation is dangerous and cruel.�",
+        expanded_view: "\'The bill we are considering today would ban all abortions after 20 weeks, with only limited exceptions. It would force women to carry an unviable fetus to term. It would force women with severe health complications to stay pregnant until their lives were on the line. Whatever you believe about abortion generally, this legislation is dangerous and cruel.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1048,7 +1048,7 @@ module.exports = {
         name: "Elizabeth Warren",
         category: "Immigration",
         for_against: "Other",
-        expanded_view: "\"As president, I will immediately issue guidance to end criminal prosecutions for simple administrative immigration violations; end Operation Streamline, which subjects migrants to mass prosecutions; and refocus our limited resources on actual criminals and real threats to the United States. I will also issue prosecutorial guidance to prioritize immigration cases with security concerns, and make sure government attorneys are properly exercising their discretion for individuals who pose no public safety risk.�",
+        expanded_view: "\"As president, I will immediately issue guidance to end criminal prosecutions for simple administrative immigration violations; end Operation Streamline, which subjects migrants to mass prosecutions; and refocus our limited resources on actual criminals and real threats to the United States. I will also issue prosecutorial guidance to prioritize immigration cases with security concerns, and make sure government attorneys are properly exercising their discretion for individuals who pose no public safety risk.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1058,7 +1058,7 @@ module.exports = {
         name: "Elizabeth Warren",
         category: "Healthcare",
         for_against: "For",
-        expanded_view: "Sen. Warren sponsored the �Consumer Health Insurance Protection Act� in 2019. Among other things, a press release said the Act �Strengthens protections for essential health benefits�",
+        expanded_view: "Sen. Warren sponsored the \'Consumer Health Insurance Protection Act\' in 2019. Among other things, a press release said the Act \'Strengthens protections for essential health benefits\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1068,7 +1068,7 @@ module.exports = {
         name: "Elizabeth Warren",
         category: "Social Security",
         for_against: "For",
-        expanded_view: "�Social Security is a promise made to our seniors and it would be a breach of trust ",
+        expanded_view: "\'Social Security is a promise made to our seniors and it would be a breach of trust ",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1088,7 +1088,7 @@ module.exports = {
         name: "Elizabeth Warren",
         category: "Wealth and Income Equality",
         for_against: "For",
-        expanded_view: "�While we must make income taxes more progressive, that alone won�t straighten out our slanted tax code or our lopsided economy.�That�s why we need a tax on wealth. The Ultra-Millionaire Tax taxes the wealth of the richest Americans. It applies only to households with a net worth of $50 million or more�roughly the wealthiest 75,000 households, or the top 0.1%.�",
+        expanded_view: "\'While we must make income taxes more progressive, that alone won\'t straighten out our slanted tax code or our lopsided economy.\'That\'s why we need a tax on wealth. The Ultra-Millionaire Tax taxes the wealth of the richest Americans. It applies only to households with a net worth of $50 million or more\'roughly the wealthiest 75,000 households, or the top 0.1%.\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1098,7 +1098,7 @@ module.exports = {
         name: "Elizabeth Warren",
         category: "LGBTQ rights",
         for_against: "For",
-        expanded_view: "�In my first 100 days as President, I will use every legal tool we have to make sure that LGBTQ+ people can live thrive free from discrimination�",
+        expanded_view: "\'In my first 100 days as President, I will use every legal tool we have to make sure that LGBTQ+ people can live thrive free from discrimination\'",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1108,7 +1108,7 @@ module.exports = {
         name: "Bill Weld",
         category: "Gun Control",
         for_against: " Against ",
-        expanded_view: "\"Restricting Americans� gun rights doesn�t make us safer, and threatens our constitutional freedoms. I was pleased by and support the Supreme Court�s decision in the District of Columbia vs. Heller ",
+        expanded_view: "\"Restricting Americans\' gun rights doesn\'t make us safer, and threatens our constitutional freedoms. I was pleased by and support the Supreme Court\'s decision in the District of Columbia vs. Heller ",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1118,7 +1118,7 @@ module.exports = {
         name: "Bill Weld",
         category: "Education",
         for_against: "Other",
-        expanded_view: "\"Domestically, our most immediate priority must be jobs and wages. What are we going to do about the fact that 25% of all the jobs in the United States today won�t exist in 15 years? This is not caused by the unseen hands of globalization or the internet, but rather by the soon to be all-too-visible hands of robotics, drones, machine learning, artificial intelligence, and autonomous vehicles. The old jobs will be replaced by new and different jobs, but the problem is that today�s workers don�t yet possess the skill sets that the replacement jobs will require. ... The skills required by the new jobs correspond roughly to the skills now taught in the first two years of post-secondary education, or the community college level. But a displaced worker can�t take two years off and pay two years� tuition to acquire those skills. Accordingly, we should adjust our budget priorities to cover the cost of in-state tuition for those displaced workers, as we did for our returning veterans under the G.I. Bill following World War II. In addition, to cut down on room and board expense, we should encourage and embrace on-line education. ... Oh, and the current federal provision which prevents the renegotiation of student debt? We need to repeal it immediately.\"\n",
+        expanded_view: "\"Domestically, our most immediate priority must be jobs and wages. What are we going to do about the fact that 25% of all the jobs in the United States today won\'t exist in 15 years? This is not caused by the unseen hands of globalization or the internet, but rather by the soon to be all-too-visible hands of robotics, drones, machine learning, artificial intelligence, and autonomous vehicles. The old jobs will be replaced by new and different jobs, but the problem is that today\'s workers don\'t yet possess the skill sets that the replacement jobs will require. ... The skills required by the new jobs correspond roughly to the skills now taught in the first two years of post-secondary education, or the community college level. But a displaced worker can\'t take two years off and pay two years\' tuition to acquire those skills. Accordingly, we should adjust our budget priorities to cover the cost of in-state tuition for those displaced workers, as we did for our returning veterans under the G.I. Bill following World War II. In addition, to cut down on room and board expense, we should encourage and embrace on-line education. ... Oh, and the current federal provision which prevents the renegotiation of student debt? We need to repeal it immediately.\"\n",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1148,7 +1148,7 @@ module.exports = {
         name: "Bill Weld",
         category: "Immigration",
         for_against: "For",
-        expanded_view: "\"'The wall is a joke,' Mr. Weld said of Mr. Trump's vow to build a wall along the border with Mexico. But, he added, 'I would say it was a joke if it didn�t remind me so much of the Berlin Wall.'\"",
+        expanded_view: "\"'The wall is a joke,' Mr. Weld said of Mr. Trump's vow to build a wall along the border with Mexico. But, he added, 'I would say it was a joke if it didn\'t remind me so much of the Berlin Wall.'\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1218,7 +1218,7 @@ module.exports = {
         name: "Andrew Yang",
         category: "Education",
         for_against: "For",
-        expanded_view: "\"All community colleges should be funded at a level to make tuition free or nearly-free for anyone, especially those who are taking vocational classes. The government can be involved, but businesses should also be encouraged to invest in their area�s community colleges, both to create stronger ties to their communities and better access to this potential workforce.\"",
+        expanded_view: "\"All community colleges should be funded at a level to make tuition free or nearly-free for anyone, especially those who are taking vocational classes. The government can be involved, but businesses should also be encouraged to invest in their area\'s community colleges, both to create stronger ties to their communities and better access to this potential workforce.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1238,7 +1238,7 @@ module.exports = {
         name: "Andrew Yang",
         category: "Abortion",
         for_against: "For",
-        expanded_view: "\"As President, I will� Support a woman�s right to choose in every circumstance and provide resources for planning and contraception.\"",
+        expanded_view: "\"As President, I will\' Support a woman\'s right to choose in every circumstance and provide resources for planning and contraception.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1248,7 +1248,7 @@ module.exports = {
         name: "Andrew Yang",
         category: "Immigration",
         for_against: "Other",
-        expanded_view: "\"'Walls generally aren�t an effective way of stopping illegal border crossings,' Yang told The Post. 'I don�t think it�s worth it to tear down existing barriers, but I wouldn�t support adding more unless their utility could be demonstrated in a particular part of the border.'\"",
+        expanded_view: "\"'Walls generally aren\'t an effective way of stopping illegal border crossings,' Yang told The Post. 'I don\'t think it\'s worth it to tear down existing barriers, but I wouldn\'t support adding more unless their utility could be demonstrated in a particular part of the border.'\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1258,7 +1258,7 @@ module.exports = {
         name: "Andrew Yang",
         category: "Healthcare",
         for_against: "For",
-        expanded_view: "\"We pay more than any other major industrialized country for our health care to worse results. When Americans get sick, they�re focused more on how to pay for their care than how to get well. Our current system is dysfunctional and we need to move towards a Medicare for All system that provides coverage for all Americans from birth. I wouldn�t eliminate private health insurance, but I don�t imagine it being an economically viable business outside of supplemental plans since it�s competing against a no-cost alternative.\"\n",
+        expanded_view: "\"We pay more than any other major industrialized country for our health care to worse results. When Americans get sick, they\'re focused more on how to pay for their care than how to get well. Our current system is dysfunctional and we need to move towards a Medicare for All system that provides coverage for all Americans from birth. I wouldn\'t eliminate private health insurance, but I don\'t imagine it being an economically viable business outside of supplemental plans since it\'s competing against a no-cost alternative.\"\n",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1278,7 +1278,7 @@ module.exports = {
         name: "Andrew Yang",
         category: "Climate change",
         for_against: "For",
-        expanded_view: "\"Invest in any idea that has the potential to reverse the damage done to the environment, for example cloud-seeding technology to increase the atmosphere�s reflectivity.\"",
+        expanded_view: "\"Invest in any idea that has the potential to reverse the damage done to the environment, for example cloud-seeding technology to increase the atmosphere\'s reflectivity.\"",
         createdAt: new Date(),
         updatedAt: new Date()
         
@@ -1288,7 +1288,7 @@ module.exports = {
         name: "Andrew Yang",
         category: "Wealth and Income Equality",
         for_against: "Other",
-        expanded_view: "\"Andrew would implement a Universal Basic Income, �The Freedom Dividend,� of $1,000/month, $12,000 a year for every American adult over the age of 18. This is independent of one�s work status or any other factor. This would enable all Americans to pay their bills, educate themselves, start businesses, be more creative, stay healthy, relocate for work, spend time with their children, take care of loved ones, and have a real stake in the future.",
+        expanded_view: "\"Andrew would implement a Universal Basic Income, \'The Freedom Dividend,\' of $1,000/month, $12,000 a year for every American adult over the age of 18. This is independent of one\'s work status or any other factor. This would enable all Americans to pay their bills, educate themselves, start businesses, be more creative, stay healthy, relocate for work, spend time with their children, take care of loved ones, and have a real stake in the future.",
         createdAt: new Date(),
         updatedAt: new Date()
         
