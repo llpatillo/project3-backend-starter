@@ -5,9 +5,12 @@
 
 Github Repo: 
 
+`https://github.com/llpatillo/project3-backend-starter`
+`https://github.com/llpatillo/project3-frontend-starter`
+
 ## Overview
 
-The Voter's Digest app is a comprehensive guide of the 13 leading candidates for the 2020 presidential election. The primary objective of the app is to present the major candidates, along with their positions in ten key categories, in a succinct and unbiased manner. The primary target audience is the undecided voter who wants to vote based on a candidate's position(s).  Our goal was to achieve a lightweight, rapidly loading and easy to navigate app.  Some key features of the app include each candidate's campaign ad video embedded in the app and a comment section where the user can read, create, update and delete comments for each candidate. Asubtle feature to note, in effort to keep the app as unbiased as possible, the candidates are simply arranged in alphabetical order instead of being grouped by party affiliation.    
+The Voter's Digest app is a comprehensive guide of the 13 leading candidates for the 2020 presidential election. The primary objective of the app is to present the major candidates, along with their positions in ten key categories, in a succinct and unbiased manner. The primary target audience is the undecided voter who wants to vote based on a candidate's position(s).  Our goal was to achieve a lightweight, rapidly loading and easy to navigate app.  Some key features of the app include each candidate's campaign ad video embedded in the app and a comment section where the user can read, create, update and delete comments for each candidate. A subtle feature to note, in effort to keep the app as unbiased as possible, the candidates are simply arranged in alphabetical order instead of being grouped by party affiliation.    
 
 
 ## Technologies used:  
@@ -36,6 +39,14 @@ The Voter's Digest app is a comprehensive guide of the 13 leading candidates for
 
 ![](images/entity_relationship_diagram.jpg)
 
+## Wireframes
+
+![](images/landing-page.jpg)
+![](images/all_candidates.jpg)
+![](images/candidate-page.jpg)
+
+
+
 ## User Stories
 1.  As a user I want to be able to get factual, unbiased information on the candidates and their positions.
 2. As a user I want to be able to find information about all of the major candidates in one place.
@@ -48,18 +59,6 @@ The Voter's Digest app is a comprehensive guide of the 13 leading candidates for
 9. As a user I want an app that loads quickly, is easy to use and navigate and most of all, provides its information in an easy to read and understand format.
 10. As a user I want an app that is responsive so I can read it with the same ease on my desktop, laptop, tablet or phone, regardless of the screen size.
 
-
-## Wireframes
-
-![](images/landing-page.jpg)
-![](images/all_candidates.jpg)
-![](images/candidate-page.jpg)
-
-
-## More to come...
-- Integrate a 3rd-party API to display upcoming events related to the election such as primaries and debates.  
-- General bug fixing and testing on front end issues, comments section has minor glitches and CSS properties could be cleaned further.
-- Add authentication so that we can allow administrators of the site to add candidates.  
 
 ## Installation
 
@@ -103,5 +102,8 @@ The Voter's Digest app is a comprehensive guide of the 13 leading candidates for
 - `cd` into the app and `npm install`
 - Run `npm start`. You should see this in the browser:
 
-
+## More to come...
+- Integrate a 3rd-party API to display upcoming events related to the election such as primaries and debates.  
+- General bug fixing and testing on front end issues, comments section has minor glitches and CSS properties could be cleaned further.
+- Add authentication so that we can allow administrators of the site to add candidates.  
 
