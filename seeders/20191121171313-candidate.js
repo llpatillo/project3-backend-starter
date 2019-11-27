@@ -5,7 +5,7 @@ module.exports = {
     return queryInterface.bulkInsert('Candidates', [
       {
        name:"Joe Biden",
-       candidate_img_url:"https://www.youtube.com/embed/VbOU2fTg6cI",
+       candidate_img_url:"https://www.youtube.com/embed/VbOU2fTg6cI?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"None",
@@ -19,7 +19,7 @@ module.exports = {
      },
      {
        name:"Cory Booker",
-       candidate_img_url:"https://www.youtube.com/embed/mx5m6DDFupg",
+       candidate_img_url:"https://www.youtube.com/embed/mx5m6DDFupg?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"U.S. Senator",
@@ -33,7 +33,7 @@ module.exports = {
      },
      {
        name:"Pete Buttigieg",
-       candidate_img_url:"https://www.youtube.com/embed/3uOly3jGCBo",
+       candidate_img_url:"https://www.youtube.com/embed/3uOly3jGCBo?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"Mayor, South Bend, IN",
@@ -47,7 +47,7 @@ module.exports = {
      },
      {
        name:"Rocky De La Fuente",
-       candidate_img_url:"https://www.youtube.com/embed/LW5WJJXEzHA",
+       candidate_img_url:"https://www.youtube.com/embed/LW5WJJXEzHA?autoplay=1",
        political_party:"Republican",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Republican_Disc.svg/300px-Republican_Disc.svg.png",
        current_office:"None",
@@ -61,7 +61,7 @@ module.exports = {
      },
      {
        name:"Tulsi Gabbard",
-       candidate_img_url:"https://www.youtube.com/embed/c0pCTjRIIhk",
+       candidate_img_url:"https://www.youtube.com/embed/c0pCTjRIIhk?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"U.S. State Representative, Hawaii",
@@ -75,7 +75,7 @@ module.exports = {
      },
      {
        name:"Kamala Harris",
-       candidate_img_url:"https://www.youtube.com/embed/Ls7OSwHMoBc",
+       candidate_img_url:"https://www.youtube.com/embed/Ls7OSwHMoBc?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"U.S. Senator, California",
@@ -89,7 +89,7 @@ module.exports = {
      },
      {
        name:"Amy Klobuchar",
-       candidate_img_url:"https://www.youtube.com/embed/vghXHCAGcIw",
+       candidate_img_url:"https://www.youtube.com/embed/vghXHCAGcIw?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"U.S. Senator, Minnesota",
@@ -103,7 +103,7 @@ module.exports = {
      },
      {
        name:"Bernie Sanders",
-       candidate_img_url:"https://www.youtube.com/embed/s7DRwz0cAt0",
+       candidate_img_url:"https://www.youtube.com/embed/s7DRwz0cAt0?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"U.S. Sentaor (2006 - present)",
@@ -117,7 +117,7 @@ module.exports = {
      },
      {
        name:"Tom Steyer",
-       candidate_img_url:"https://www.youtube.com/embed/Q0pFvLtryd0",
+       candidate_img_url:"https://www.youtube.com/embed/Q0pFvLtryd0?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"Governor, South Carolina",
@@ -131,7 +131,7 @@ module.exports = {
      },
      {
        name:"Donald Trump",
-       candidate_img_url:"https://www.youtube.com/embed/aIrtAASuMbQ",
+       candidate_img_url:"https://www.youtube.com/embed/aIrtAASuMbQ?autoplay=1",
        political_party:"Republican",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Republican_Disc.svg/300px-Republican_Disc.svg.png",
        current_office:"U.S. President",
@@ -145,7 +145,7 @@ module.exports = {
      },
      {
        name:"Elizabeth Warren",
-       candidate_img_url:"https://www.youtube.com/embed/uF3IjYG8eeY",
+       candidate_img_url:"https://www.youtube.com/embed/uF3IjYG8eeY?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"U.S. Senator, Massachusetts",
@@ -159,7 +159,7 @@ module.exports = {
      },
      {
       name:"Bill Weld",
-      candidate_img_url:"https://www.youtube.com/embed/wbQzEXzsygA",
+      candidate_img_url:"https://www.youtube.com/embed/wbQzEXzsygA?autoplay=1",
       political_party:"Republican",
       political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Republican_Disc.svg/300px-Republican_Disc.svg.png",
       current_office:"None",
@@ -173,7 +173,7 @@ module.exports = {
     },
     {
        name:"Andrew Yang",
-       candidate_img_url:"https://www.youtube.com/embed/EgQb2NNQ43w",
+       candidate_img_url:"https://www.youtube.com/embed/EgQb2NNQ43w?autoplay=1",
        political_party:"Democrat",
        political_party_img_url:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/US_Democratic_Party_Logo.svg/300px-US_Democratic_Party_Logo.svg.png",
        current_office:"None",
